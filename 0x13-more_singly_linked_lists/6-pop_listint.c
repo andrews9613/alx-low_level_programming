@@ -2,7 +2,7 @@
 
 /**
  * pop_listint - remove first element of linked list
- * @head Linked list start node reference
+ * @head: Linked list start node reference
  *
  * Return: the data inside the elements that was deleted,
  * or 0 if the list is empty
